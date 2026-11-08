@@ -1,0 +1,10 @@
+{
+  "name": "lowlat-mirror-tv",
+  "appName": "LowLat Mirror",
+  "version": "0.1.0",
+  "description": "Receptor WebRTC de baixa latencia para espelhar o celular na TV Samsung (TizenBrew).",
+  "packageType": "app",
+  "appPath": "app/index.html",
+  "keys": ["ColorF2Yellow", "ColorF3Blue"],
+  "license": "MIT"
+}
